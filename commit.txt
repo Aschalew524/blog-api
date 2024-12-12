@@ -184,3 +184,4 @@ Improve error messages
 2025-08-15 - add delete post functionality
 2025-08-15 - improve error handling
 2025-08-15 - fix typo in controller
+2024-12-12 - update README
