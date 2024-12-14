@@ -187,3 +187,4 @@ Improve error messages
 2024-12-12 - update README
 2024-12-12 - add get single post route
 2024-12-13 - add delete post functionality
+2024-12-14 - fix async handler
