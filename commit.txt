@@ -191,3 +191,4 @@ Improve error messages
 2024-12-14 - add create post endpoint
 2024-12-14 - fix update post route
 2024-12-15 - refactor blog controller
+2024-12-15 - add post model fields
