@@ -194,3 +194,4 @@ Improve error messages
 2024-12-15 - add post model fields
 2024-12-15 - improve logging
 2024-12-16 - refactor blog controller
+2024-12-17 - improve get all posts
