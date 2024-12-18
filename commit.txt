@@ -199,3 +199,4 @@ Improve error messages
 2024-12-17 - add get single post route
 2024-12-18 - cleanup unused imports
 2024-12-18 - fix response structure
+2024-12-18 - refactor blog controller
