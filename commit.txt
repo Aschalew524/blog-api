@@ -202,3 +202,4 @@ Improve error messages
 2024-12-18 - refactor blog controller
 2024-12-19 - add create post endpoint
 2024-12-20 - add request validation
+2024-12-20 - add delete post functionality
