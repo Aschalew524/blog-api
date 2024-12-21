@@ -204,3 +204,4 @@ Improve error messages
 2024-12-20 - add request validation
 2024-12-20 - add delete post functionality
 2024-12-21 - fix response structure
+2024-12-21 - add health check route
