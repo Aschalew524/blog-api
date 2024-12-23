@@ -206,3 +206,4 @@ Improve error messages
 2024-12-21 - fix response structure
 2024-12-21 - add health check route
 2024-12-22 - add request validation
+2024-12-23 - refactor blog controller
