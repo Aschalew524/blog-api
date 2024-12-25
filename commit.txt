@@ -209,3 +209,4 @@ Improve error messages
 2024-12-23 - refactor blog controller
 2024-12-24 - add delete post functionality
 2024-12-25 - update README
+2024-12-25 - improve get all posts
