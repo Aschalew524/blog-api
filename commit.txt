@@ -212,3 +212,4 @@ Improve error messages
 2024-12-25 - improve get all posts
 2024-12-25 - add delete post functionality
 2024-12-26 - refactor middleware logic
+2024-12-26 - add delete post functionality
