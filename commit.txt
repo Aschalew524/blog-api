@@ -213,3 +213,4 @@ Improve error messages
 2024-12-25 - add delete post functionality
 2024-12-26 - refactor middleware logic
 2024-12-26 - add delete post functionality
+2024-12-27 - fix update post route
