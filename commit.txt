@@ -216,3 +216,4 @@ Improve error messages
 2024-12-27 - fix update post route
 2024-12-27 - add request validation
 2024-12-28 - update README
+2024-12-29 - add post model fields
