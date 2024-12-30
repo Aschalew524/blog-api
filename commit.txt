@@ -217,3 +217,4 @@ Improve error messages
 2024-12-27 - add request validation
 2024-12-28 - update README
 2024-12-29 - add post model fields
+2024-12-30 - add pagination support
