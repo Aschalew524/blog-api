@@ -219,3 +219,4 @@ Improve error messages
 2024-12-29 - add post model fields
 2024-12-30 - add pagination support
 2024-12-30 - improve error handling
+2024-12-30 - add health check route
