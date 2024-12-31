@@ -220,3 +220,4 @@ Improve error messages
 2024-12-30 - add pagination support
 2024-12-30 - improve error handling
 2024-12-30 - add health check route
+2024-12-31 - add request validation
