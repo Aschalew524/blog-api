@@ -224,3 +224,4 @@ Improve error messages
 2024-12-31 - add post model fields
 2025-01-01 - update README
 2025-01-02 - fix async handler
+2025-01-03 - fix update post route
