@@ -226,3 +226,4 @@ Improve error messages
 2025-01-02 - fix async handler
 2025-01-03 - fix update post route
 2025-01-03 - add get single post route
+2025-01-03 - add get single post route
