@@ -231,3 +231,4 @@ Improve error messages
 2025-01-05 - optimize database query
 2025-01-05 - add post model fields
 2025-01-06 - add get single post route
+2025-01-07 - improve error handling
