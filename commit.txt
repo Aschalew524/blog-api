@@ -238,3 +238,4 @@ Improve error messages
 2025-01-10 - add pagination support
 2025-01-10 - improve get all posts
 2025-01-10 - fix response structure
+2025-01-11 - refactor folder structure
