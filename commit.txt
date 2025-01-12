@@ -241,3 +241,4 @@ Improve error messages
 2025-01-11 - refactor folder structure
 2025-01-12 - add health check route
 2025-01-12 - optimize database query
+2025-01-12 - fix typo in controller
