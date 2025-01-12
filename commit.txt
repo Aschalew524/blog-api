@@ -239,3 +239,4 @@ Improve error messages
 2025-01-10 - improve get all posts
 2025-01-10 - fix response structure
 2025-01-11 - refactor folder structure
+2025-01-12 - add health check route
