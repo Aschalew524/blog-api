@@ -244,3 +244,4 @@ Improve error messages
 2025-01-12 - fix typo in controller
 2025-01-13 - improve get all posts
 2025-01-14 - improve logging
+2025-01-14 - improve get all posts
