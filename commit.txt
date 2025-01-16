@@ -248,3 +248,4 @@ Improve error messages
 2025-01-14 - add pagination support
 2025-01-15 - add pagination support
 2025-01-15 - add get single post route
+2025-01-16 - update README
