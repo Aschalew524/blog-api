@@ -252,3 +252,4 @@ Improve error messages
 2025-01-16 - fix typo in controller
 2025-01-16 - update README
 2025-01-17 - fix typo in controller
+2025-01-17 - add request validation
