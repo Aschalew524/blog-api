@@ -258,3 +258,4 @@ Improve error messages
 2025-01-18 - refactor middleware logic
 2025-01-19 - improve error handling
 2025-01-19 - add pagination support
+2025-01-19 - fix async handler
