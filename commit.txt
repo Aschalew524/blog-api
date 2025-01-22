@@ -265,3 +265,4 @@ Improve error messages
 2025-01-21 - add request validation
 2025-01-21 - refactor middleware logic
 2025-01-21 - refactor folder structure
+2025-01-22 - fix typo in controller
