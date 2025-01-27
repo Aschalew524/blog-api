@@ -277,3 +277,4 @@ Improve error messages
 2025-01-26 - add health check route
 2025-01-26 - fix response structure
 2025-01-27 - add post model fields
+2025-01-27 - refactor folder structure
