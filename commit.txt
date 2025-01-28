@@ -281,3 +281,4 @@ Improve error messages
 2025-01-27 - cleanup unused imports
 2025-01-28 - add post model fields
 2025-01-28 - add post model fields
+2025-01-28 - update README
