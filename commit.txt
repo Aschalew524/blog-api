@@ -284,3 +284,4 @@ Improve error messages
 2025-01-28 - update README
 2025-01-29 - cleanup unused imports
 2025-01-29 - improve error handling
+2025-01-29 - fix typo in controller
