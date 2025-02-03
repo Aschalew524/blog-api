@@ -292,3 +292,4 @@ Improve error messages
 2025-02-01 - add delete post functionality
 2025-02-01 - add delete post functionality
 2025-02-02 - fix typo in controller
+2025-02-03 - add post model fields
