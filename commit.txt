@@ -298,3 +298,4 @@ Improve error messages
 2025-02-04 - improve get all posts
 2025-02-05 - add post model fields
 2025-02-06 - add post model fields
+2025-02-06 - add delete post functionality
