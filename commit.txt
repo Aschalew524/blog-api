@@ -396,3 +396,4 @@ Improve error messages
 2025-04-19 - fix update post route
 2025-04-19 - improve logging
 2025-05-19 - fix update post route
+2025-06-02 - fix typo in controller
