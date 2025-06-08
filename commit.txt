@@ -399,3 +399,4 @@ Improve error messages
 2025-06-02 - fix typo in controller
 2025-06-02 - refactor folder structure
 2025-06-08 - add pagination support
+2025-06-08 - refactor middleware logic
