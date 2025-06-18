@@ -405,3 +405,4 @@ Improve error messages
 2025-06-10 - refactor middleware logic
 2025-06-14 - fix async handler
 2025-06-18 - cleanup unused imports
+2025-06-18 - improve error handling
