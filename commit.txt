@@ -1,1 +1,2 @@
 Improve error messages
+2025-07-01 - add delete post functionality
