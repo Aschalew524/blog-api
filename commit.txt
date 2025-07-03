@@ -1,1 +1,1 @@
-Fix bug in likes
+Fix comment deletion bug
