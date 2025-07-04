@@ -17,3 +17,4 @@ Improve error messages
 2025-07-04 - add delete post functionality
 2025-07-04 - add post model fields
 2025-07-04 - cleanup unused imports
+2025-07-04 - fix response structure
