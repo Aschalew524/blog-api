@@ -1,1 +1,1 @@
-Fix comment deletion bug
+Add JWT authentication
