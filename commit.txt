@@ -15,3 +15,4 @@ Improve error messages
 2025-07-03 - add pagination support
 2025-07-04 - refactor folder structure
 2025-07-04 - add delete post functionality
+2025-07-04 - add post model fields
