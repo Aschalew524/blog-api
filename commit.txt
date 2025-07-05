@@ -23,3 +23,4 @@ Improve error messages
 2025-07-05 - cleanup unused imports
 2025-07-05 - refactor blog controller
 2025-07-05 - add get single post route
+2025-07-05 - improve logging
