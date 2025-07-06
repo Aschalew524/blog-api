@@ -1,1 +1,1 @@
-Add sample data
+Update README with endpoints
