@@ -30,3 +30,4 @@ Improve error messages
 2025-07-07 - add delete post functionality
 2025-07-07 - add request validation
 2025-07-07 - fix response structure
+2025-07-07 - add get single post route
