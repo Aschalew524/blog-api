@@ -28,3 +28,4 @@ Improve error messages
 2025-07-06 - add create post endpoint
 2025-07-07 - refactor middleware logic
 2025-07-07 - add delete post functionality
+2025-07-07 - add request validation
