@@ -36,3 +36,4 @@ Improve error messages
 2025-07-08 - add delete post functionality
 2025-07-09 - optimize database query
 2025-07-10 - add pagination support
+2025-07-10 - add get single post route
