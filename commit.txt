@@ -51,3 +51,4 @@ Improve error messages
 2025-07-13 - cleanup unused imports
 2025-07-13 - fix async handler
 2025-07-14 - add delete post functionality
+2025-07-15 - improve get all posts
