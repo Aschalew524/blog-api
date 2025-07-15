@@ -53,3 +53,4 @@ Improve error messages
 2025-07-14 - add delete post functionality
 2025-07-15 - improve get all posts
 2025-07-15 - add delete post functionality
+2025-07-15 - add health check route
