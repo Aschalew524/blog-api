@@ -1,1 +1,1 @@
-Fix login bug
+Refactor code for readability
