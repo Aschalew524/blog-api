@@ -1,1 +1,1 @@
-Add comment endpoint
+Add basic validation
