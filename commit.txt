@@ -1,1 +1,1 @@
-Add basic validation
+Refactor code for readability
