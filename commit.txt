@@ -71,3 +71,4 @@ Improve error messages
 2025-07-21 - add delete post functionality
 2025-07-21 - optimize database query
 2025-07-21 - add post model fields
+2025-07-21 - add request validation
