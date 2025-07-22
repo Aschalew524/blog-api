@@ -74,3 +74,4 @@ Improve error messages
 2025-07-21 - add request validation
 2025-07-22 - refactor folder structure
 2025-07-22 - add pagination support
+2025-07-22 - add post model fields
