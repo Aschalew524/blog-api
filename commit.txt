@@ -1,1 +1,1 @@
-Add basic validation
+Refactor user model
