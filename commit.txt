@@ -86,3 +86,4 @@ Improve error messages
 2025-07-23 - refactor middleware logic
 2025-07-24 - refactor blog controller
 2025-07-24 - fix response structure
+2025-07-24 - optimize database query
