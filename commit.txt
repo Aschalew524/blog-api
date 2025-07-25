@@ -90,3 +90,4 @@ Improve error messages
 2025-07-24 - improve get all posts
 2025-07-24 - fix update post route
 2025-07-25 - fix response structure
+2025-07-25 - add delete post functionality
