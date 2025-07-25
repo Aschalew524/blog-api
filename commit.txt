@@ -1,1 +1,1 @@
-Refactor user model
+Add sample data
