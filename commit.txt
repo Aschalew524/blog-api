@@ -94,3 +94,4 @@ Improve error messages
 2025-07-25 - fix typo in controller
 2025-07-25 - add delete post functionality
 2025-07-25 - add delete post functionality
+2025-07-25 - optimize database query
