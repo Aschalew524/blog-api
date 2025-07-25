@@ -95,3 +95,4 @@ Improve error messages
 2025-07-25 - add delete post functionality
 2025-07-25 - add delete post functionality
 2025-07-25 - optimize database query
+2025-07-25 - add get single post route
