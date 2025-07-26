@@ -99,3 +99,4 @@ Improve error messages
 2025-07-26 - add delete post functionality
 2025-07-26 - add health check route
 2025-07-26 - fix update post route
+2025-07-26 - add health check route
