@@ -1,1 +1,1 @@
-Add JWT authentication
+Update README with endpoints
