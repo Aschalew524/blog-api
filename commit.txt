@@ -105,3 +105,4 @@ Improve error messages
 2025-07-26 - update README
 2025-07-27 - add pagination support
 2025-07-27 - add pagination support
+2025-07-27 - refactor blog controller
