@@ -117,3 +117,4 @@ Improve error messages
 2025-07-29 - add get single post route
 2025-07-29 - add post model fields
 2025-07-30 - cleanup unused imports
+2025-07-30 - add delete post functionality
