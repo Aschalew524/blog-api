@@ -124,3 +124,4 @@ Improve error messages
 2025-08-01 - update README
 2025-08-01 - add delete post functionality
 2025-08-01 - improve get all posts
+2025-08-01 - add health check route
