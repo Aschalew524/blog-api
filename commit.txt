@@ -139,3 +139,4 @@ Improve error messages
 2025-08-05 - cleanup unused imports
 2025-08-05 - refactor folder structure
 2025-08-05 - refactor middleware logic
+2025-08-05 - fix typo in controller
