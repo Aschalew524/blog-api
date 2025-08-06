@@ -142,3 +142,4 @@ Improve error messages
 2025-08-05 - fix typo in controller
 2025-08-05 - refactor blog controller
 2025-08-05 - improve get all posts
+2025-08-06 - refactor blog controller
