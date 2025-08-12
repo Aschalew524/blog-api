@@ -164,3 +164,4 @@ Improve error messages
 2025-08-11 - fix typo in controller
 2025-08-11 - refactor folder structure
 2025-08-11 - refactor blog controller
+2025-08-12 - add create post endpoint
