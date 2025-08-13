@@ -173,3 +173,4 @@ Improve error messages
 2025-08-13 - refactor middleware logic
 2025-08-13 - improve get all posts
 2025-08-13 - refactor blog controller
+2025-08-13 - add delete post functionality
