@@ -181,3 +181,4 @@ Improve error messages
 2025-08-14 - cleanup unused imports
 2025-08-15 - refactor middleware logic
 2025-08-15 - fix async handler
+2025-08-15 - add delete post functionality
