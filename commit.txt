@@ -337,3 +337,4 @@ Improve error messages
 2025-09-18 - refactor middleware logic
 2025-09-19 - add delete post functionality
 2025-09-19 - add health check route
+2025-09-20 - add health check route
