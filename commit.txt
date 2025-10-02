@@ -370,3 +370,4 @@ Improve error messages
 2025-10-01 - add request validation
 2025-10-02 - improve get all posts
 2025-10-02 - refactor folder structure
+2025-10-02 - fix typo in controller
