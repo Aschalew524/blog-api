@@ -374,3 +374,4 @@ Improve error messages
 2025-10-03 - refactor folder structure
 2025-10-03 - add get single post route
 2025-10-03 - cleanup unused imports
+2025-10-04 - optimize database query
