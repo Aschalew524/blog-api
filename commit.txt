@@ -378,3 +378,4 @@ Improve error messages
 2025-10-04 - refactor middleware logic
 2025-10-04 - add get single post route
 2025-10-05 - refactor folder structure
+2025-10-05 - refactor folder structure
