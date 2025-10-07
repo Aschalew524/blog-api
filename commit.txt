@@ -384,3 +384,4 @@ Improve error messages
 2025-10-06 - fix async handler
 2025-10-06 - refactor middleware logic
 2025-10-07 - fix typo in controller
+2025-10-07 - improve get all posts
