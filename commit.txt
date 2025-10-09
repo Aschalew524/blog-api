@@ -387,3 +387,4 @@ Improve error messages
 2025-10-07 - improve get all posts
 2025-10-08 - update README
 2025-10-08 - improve error handling
+2025-10-09 - refactor blog controller
