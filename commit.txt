@@ -410,3 +410,4 @@ Improve error messages
 2025-10-12 - fix update post route
 2025-10-15 - cleanup unused imports
 2025-10-15 - fix async handler
+2025-10-15 - update README
