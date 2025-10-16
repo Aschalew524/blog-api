@@ -411,3 +411,4 @@ Improve error messages
 2025-10-15 - cleanup unused imports
 2025-10-15 - fix async handler
 2025-10-15 - update README
+2025-10-16 - improve logging
