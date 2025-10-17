@@ -413,3 +413,4 @@ Improve error messages
 2025-10-15 - update README
 2025-10-16 - improve logging
 2025-10-16 - update README
+2025-10-17 - add health check route
