@@ -416,3 +416,4 @@ Improve error messages
 2025-10-17 - add health check route
 2025-10-17 - improve get all posts
 2025-10-17 - improve logging
+2025-10-24 - add get single post route
