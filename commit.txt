@@ -420,3 +420,4 @@ Improve error messages
 2025-10-24 - cleanup unused imports
 2025-10-25 - add create post endpoint
 2025-10-29 - refactor middleware logic
+2025-10-29 - add health check route
