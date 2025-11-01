@@ -422,3 +422,4 @@ Improve error messages
 2025-10-29 - refactor middleware logic
 2025-10-29 - add health check route
 2025-11-01 - add pagination support
+2025-11-01 - fix typo in controller
