@@ -427,3 +427,4 @@ Improve error messages
 2025-11-05 - refactor folder structure
 2025-11-09 - improve logging
 2025-11-09 - fix async handler
+2025-11-12 - add delete post functionality
