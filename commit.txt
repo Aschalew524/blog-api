@@ -429,3 +429,4 @@ Improve error messages
 2025-11-09 - fix async handler
 2025-11-12 - add delete post functionality
 2025-11-12 - cleanup unused imports
+2025-11-15 - add get single post route
